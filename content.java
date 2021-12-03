@@ -171,13 +171,6 @@ public class Cfdktj {
         System.out.println("spgrf");
         System.out.println("xtmbs");
         System.out.println("ntjjl");
-        System.out.println("hluey");
-        System.out.println("gkqcx");
-        System.out.println("avcuw");
-        System.out.println("crrip");
-        System.out.println("hpflv");
-        System.out.println("veols");
-        System.out.println("uafbs");
-        System.out.println("njsjw");
+        System.out.println("kkufn");
     }
 }
