@@ -150,13 +150,6 @@ public class Cfdktj {
         System.out.println("wmtrw");
         System.out.println("jeibq");
         System.out.println("genmx");
-        System.out.println("xlegq");
-        System.out.println("aqydx");
-        System.out.println("kbkam");
-        System.out.println("pgqrs");
-        System.out.println("vkpak");
-        System.out.println("owvpg");
-        System.out.println("uljum");
-        System.out.println("bocgj");
+        System.out.println("vqnbv");
     }
 }
