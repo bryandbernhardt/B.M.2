@@ -149,7 +149,7 @@ public class Cfdktj {
         System.out.println("polsf");
         System.out.println("wmtrw");
         System.out.println("jeibq");
-        System.out.println("hrsug");
-        System.out.println("oycdh");
+        System.out.println("mfvcj");
+        System.out.println("knyan");
     }
 }
