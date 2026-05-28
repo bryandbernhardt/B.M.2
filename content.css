@@ -402,13 +402,12 @@
   line-height: 26px;
   padding-left: 65px;
   padding-right: 58px;
-  padding-left: 50px;
-  margin-bottom: 64px;
-  padding-right: 64px;
-  padding-top: 56px;
-  margin-bottom: 70px;
-  border-top-width: 42px;
-  margin-right: 11px;
-  padding-left: 82px;
-  border-top-width: 40px;
+  border-left-width: 66px;
+  border-top-width: 83px;
+  margin-top: 26px;
+  line-height: 30px;
+  margin-top: 32px;
+  margin-bottom: 90px;
+  border-top-width: 52px;
+  border-left-width: 88px;
 }
